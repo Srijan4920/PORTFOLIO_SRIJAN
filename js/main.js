@@ -947,7 +947,7 @@
         "Built dynamic Streamlit dashboard with majority-voting model ensembling."
       ],
       live: '#',
-      code: "https://github.com/Srijan4920"
+      code: "https://github.com/Srijan4920/MediPredict"
     },
     'smartexp': {
       title: "SmartExp AI — Intelligent Expense Tracker",
@@ -962,7 +962,7 @@
         "Automated PDF financial report generation using fpdf2 & Pandas."
       ],
       live: '#',
-      code: "https://github.com/Srijan4920"
+      code: "https://github.com/Srijan4920/Samrt_Expence_Tracker"
     },
     'hr-analytics': {
       title: "HR Analytics Dashboard — Power BI",
@@ -977,7 +977,7 @@
         "Created interactive executive filter matrices."
       ],
       live: '#',
-      code: "https://github.com/Srijan4920"
+      code: "https://github.com/Srijan4920/POWER_BI/blob/main/Hr%20dashbord.pbix"
     },
     'credit-risk': {
       title: "Credit Risk Modelling",
@@ -991,7 +991,7 @@
         "Evaluated model performance using ROC-AUC, confusion matrix, and metrics."
       ],
       live: '#',
-      code: "https://github.com/Srijan4920"
+      code: "https://github.com/Srijan4920/AI_ML_Projects/tree/main/Loan_Classification_Project"
     },
     'fake-news': {
       title: "Fake News Detection System",
@@ -1005,7 +1005,7 @@
         "Deployed real-time text credibility prediction app on Streamlit."
       ],
       live: '#',
-      code: "https://github.com/Srijan4920"
+      code: "https://github.com/Srijan4920/Data_Science/tree/main/TASK2"
     }
   };
 

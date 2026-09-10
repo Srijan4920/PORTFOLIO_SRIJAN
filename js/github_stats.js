@@ -170,18 +170,18 @@ function getFallbackStats() {
     ],
     "pinned_repos": [
       {
-        "name": "anti-gravity-portfolio",
-        "description": "Premium dynamic developer portfolio with integrated smooth Lenis scroll, GSAP animations, yfinance ticker, and developer utilities.",
-        "stars": 4,
+        "name": "PORTFOLIO_SRIJAN",
+        "description": "Interactive data analyst & ML developer portfolio with GSAP animations, bento grid layout, and FormSubmit contact form.",
+        "stars": 5,
         "language": "JavaScript",
-        "url": "https://github.com/utkarshkr13/anti-gravity-portfolio"
+        "url": "https://github.com/Srijan4920/PORTFOLIO_SRIJAN"
       },
       {
-        "name": "Side_Quest",
-        "description": "Python, automation, and microservices exploring developer utilities and scrapers.",
-        "stars": 2,
+        "name": "MediPredict",
+        "description": "Healthcare hospital data analysis, multi-task ML pipeline, and Streamlit analytics cockpit.",
+        "stars": 3,
         "language": "Python",
-        "url": "https://github.com/utkarshkr13/Side_Quest"
+        "url": "https://github.com/Srijan4920/MediPredict"
       }
     ]
   };
