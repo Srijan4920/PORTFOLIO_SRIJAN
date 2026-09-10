@@ -770,8 +770,21 @@
         const data = await response.json().catch(() => ({}));
 
         if (response.ok && data.success !== 'false') {
+          const title = contactForm.querySelector('.form-title');
+          const groups = contactForm.querySelectorAll('.form-group');
+          const btn = contactForm.querySelector('#formSubmitBtn');
+
+          if (title) title.style.display = 'none';
+          groups.forEach(g => g.style.display = 'none');
+          if (btn) btn.style.display = 'none';
+
           statusMsg.className = 'form-status-msg success';
-          statusMsg.innerHTML = `<i data-lucide="check-circle" style="width:18px;height:18px;margin-right:8px;flex-shrink:0;"></i> <span>Thank you! Your message has been sent successfully. I'll get back to you soon!</span>`;
+          statusMsg.innerHTML = `
+            <div class="success-badge-circle">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            </div>
+            <div class="success-text">Message sent! I'll get back to you soon.</div>
+          `;
           statusMsg.style.display = 'flex';
           contactForm.reset();
         } else {
