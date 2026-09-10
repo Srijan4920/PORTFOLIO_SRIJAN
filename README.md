@@ -2,7 +2,7 @@
 
 A high-performance, interactive portfolio showcasing data analytics, machine learning predictive modeling, statistical analysis, and interactive Power BI dashboards. Built with a dark/light glassmorphic UI, GSAP animations, smooth scrolling, and FormSubmit AJAX email integration.
 
-🔗 **GitHub Repository:** [https://github.com/Srijan4920/PORTFOLIO](https://github.com/Srijan4920/PORTFOLIO)
+🔗 **GitHub Repository:** [https://github.com/Srijan4920/PORTFOLIO_SRIJAN](https://github.com/Srijan4920/PORTFOLIO_SRIJAN)
 
 ---
 
@@ -43,8 +43,8 @@ Run the portfolio locally in seconds:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Srijan4920/PORTFOLIO.git
-cd PORTFOLIO
+git clone https://github.com/Srijan4920/PORTFOLIO_SRIJAN.git
+cd PORTFOLIO_SRIJAN
 
 # 2. Spin up a local development server
 python -m http.server 8000
