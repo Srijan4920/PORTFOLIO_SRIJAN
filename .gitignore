@@ -1,0 +1,28 @@
+# OS & System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor configs
+.vscode/
+.idea/
+
+# Environment & Secrets
+.env
+.env.local
+
+# Python & Dependencies
+__pycache__/
+*.pyc
+*.pyo
+
+# Local QA & Testing Artifacts
+qa_logs/
+tests/screenshots/
+obsidian/
+proposals/
+TEST_*.md
+
+# Unneeded raw source drafts
+New_CV.pdf
+Profile Image.jpg

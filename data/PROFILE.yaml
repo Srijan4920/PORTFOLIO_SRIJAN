@@ -1,0 +1,189 @@
+identity:
+  name: "Srijan Paul"
+  role: "Data Analyst & ML Developer"
+  location: "Jamshedpur, Jharkhand, India"
+  availability: "Open to Analytics & ML Roles"
+  cgpa: "9.09 / 10.0"
+  contact:
+    email: "srijanpaul6@gmail.com"
+    linkedin: "https://www.linkedin.com/in/srijan-paul-58bb24292/"
+    github: "https://github.com/Srijan4920"
+
+about:
+  - "I am a Data Analyst and B.Tech CSE student (2023–2027) with a CGPA of 9.09/10 at Arka Jain University. I specialize in turning raw data into meaningful business insights through statistical analysis, machine learning models, and interactive BI dashboards."
+  - "My technical toolkit includes Python (Pandas, NumPy, Scikit-learn, SciPy, Seaborn), SQL, Power BI (DAX, Power Query), Tableau, Excel, and Streamlit web applications."
+  - "Having completed 4 industry internships across ML model development, business intelligence dashboard design, and data analytics, I focus on building reliable data pipelines and actionable operational metrics."
+
+education:
+  - institution: "Arka Jain University, Jamshedpur"
+    degree: "B.Tech in Computer Science and Engineering"
+    dates: "2023 – 2027"
+    score: "CGPA: 9.09 / 10.0"
+  - institution: "Young Phoenix Public School, Bhubaneswar"
+    degree: "Class 12 (CBSE)"
+    dates: "2021 – Feb 2022"
+  - institution: "DAV Unit-VIII Public School, Bhubaneswar"
+    degree: "Class 10 (CBSE)"
+    dates: "2018 – May 2019"
+
+experience:
+  - company: "Astratech AI"
+    role: "Data Analytics + Data Science Intern"
+    location: "Remote / India"
+    dates: "May 2026 – Jul 2026"
+    bullets:
+      - text: "Completed an intensive internship program focused on Python, data analysis, machine learning model building, GitHub, and AI-assisted workflows."
+      - text: "Applied data analytics and machine learning concepts through practical project-based workflows and model development."
+
+  - company: "Deloitte Australia (Forage)"
+    role: "Data Analytics Job Simulation"
+    location: "Virtual Simulation"
+    dates: "Apr 2026"
+    bullets:
+      - text: "Completed a Deloitte virtual job simulation focused on data analysis and forensic technology within an entry-level consulting scenario."
+      - text: "Built an interactive Tableau dashboard to present insights clearly and support data-driven decision-making."
+      - text: "Cleaned, organized, and classified business datasets to identify patterns and support analysis."
+
+  - company: "Flandez Technologies"
+    role: "Data Analytics Intern"
+    location: "Remote / India"
+    dates: "May 2025 – Jun 2025"
+    bullets:
+      - text: "Built interactive dashboards and automated recurring reports using Python and Power BI to streamline reporting workflows."
+      - text: "Cleaned, transformed, and analyzed data to support KPI tracking and business decision-making."
+
+  - company: "Slashmark"
+    role: "Data Science Intern"
+    location: "Remote / India"
+    dates: "Sep 2024 – Oct 2024"
+    bullets:
+      - text: "Prepared real-world datasets through preprocessing, exploratory data analysis (EDA), and feature engineering."
+      - text: "Built and evaluated Scikit-learn models and tuned hyperparameters to improve predictive performance."
+      - text: "Applied data cleaning techniques to improve model input quality and reliability."
+
+projects:
+  - title: "MediPredict — Hospital Data & Patient Outcome Prediction"
+    category: "Healthcare ML + Streamlit Dashboard"
+    desc: "Analyzed 984 hospital records using Pandas, NumPy, Seaborn, and SciPy to identify patterns in treatment costs, readmissions, length of stay, and patient satisfaction. Applied ANOVA, Kruskal-Wallis, Chi-Square statistical tests, and built a multi-task ML pipeline (Logistic Regression, Decision Trees, KNN) predicting 6 patient metrics."
+    bullets:
+      - "Performed statistical analysis using ANOVA, Kruskal-Wallis, and Chi-Square tests with IQR-based outlier detection."
+      - "Built multi-task ML pipeline predicting readmission, outcome, cost level, satisfaction, LOS category, and condition."
+      - "Developed Streamlit dashboard with dynamic inputs, runtime model caching, and majority-voting ensembling."
+    stack:
+      - "Python"
+      - "Pandas"
+      - "Scikit-learn"
+      - "Streamlit"
+      - "Seaborn"
+      - "SciPy"
+    links:
+      - type: "GitHub Repository"
+        url: "https://github.com/Srijan4920/MediPredict"
+
+  - title: "SmartExp AI — Intelligent Expense Tracker"
+    category: "Financial AI + Streamlit"
+    desc: "Built a full-stack, AI-powered financial management app using Python & Streamlit with Firebase Authentication and Cloud Firestore for secure real-time data storage. Implemented Scikit-learn Linear Regression to forecast 30-day spending trends, category distributions, savings goals, overspending alerts, CSV bulk imports, and automated PDF reporting via fpdf2."
+    bullets:
+      - "Scikit-learn Linear Regression 30-day spending trend forecasting."
+      - "Firebase Auth & Cloud Firestore real-time transaction database."
+      - "CSV bulk import and automated PDF report generation via fpdf2."
+    stack:
+      - "Python"
+      - "Streamlit"
+      - "Firebase"
+      - "Scikit-learn"
+      - "fpdf2"
+      - "Pandas"
+    links:
+      - type: "GitHub Repository"
+        url: "https://github.com/Srijan4920/Samrt_Expence_Tracker"
+
+  - title: "HR Analytics Dashboard — Power BI"
+    category: "Power BI Analytics"
+    desc: "Designed an interactive Power BI dashboard to analyze employee attrition, salary trends, workforce distribution, and departmental performance. Created custom KPIs and visualizations using DAX measures, filters, and slicers to support executive HR decision-making."
+    stack:
+      - "Power BI"
+      - "DAX"
+      - "Power Query"
+      - "HR Metrics"
+      - "Excel"
+    links:
+      - type: "GitHub Repository"
+        url: "https://github.com/Srijan4920/POWER_BI/blob/main/Hr%20dashbord.pbix"
+
+  - title: "Credit Risk Modelling"
+    category: "Predictive ML Model"
+    desc: "Developed a Logistic Regression model for loan default prediction using extensive data preprocessing, feature engineering, and ROC-AUC evaluation metrics."
+    stack:
+      - "Python"
+      - "Logistic Regression"
+      - "Scikit-learn"
+      - "Seaborn"
+    links:
+      - type: "GitHub Repository"
+        url: "https://github.com/Srijan4920/AI_ML_Projects/tree/main/Loan_Classification_Project"
+
+  - title: "Fake News Detection System"
+    category: "NLP + Streamlit"
+    desc: "Built a text classification system using TF-IDF vectorization and Passive-Aggressive Classifier for fake news detection. Deployed trained model through Streamlit for real-time text predictions."
+    stack:
+      - "Python"
+      - "TF-IDF"
+      - "PassiveAggressive"
+      - "Streamlit"
+    links:
+      - type: "GitHub Repository"
+        url: "https://github.com/Srijan4920/Data_Science/tree/main/TASK2"
+
+skills:
+  - category: "Programming"
+    tags:
+      - "Python"
+      - "SQL"
+      - "Java"
+  - category: "Data Analytics"
+    tags:
+      - "Pandas"
+      - "NumPy"
+      - "EDA"
+      - "KPI Reporting"
+      - "Statistics"
+      - "SciPy"
+  - category: "Business Intelligence"
+    tags:
+      - "Power BI"
+      - "Tableau"
+      - "Excel"
+      - "Pivot Tables"
+      - "DAX"
+  - category: "Machine Learning"
+    tags:
+      - "Scikit-learn"
+      - "Regression"
+      - "Classification"
+      - "Feature Engineering"
+      - "Model Evaluation"
+  - category: "Tools & Platforms"
+    tags:
+      - "MySQL"
+      - "Git"
+      - "Streamlit"
+      - "Firebase"
+
+certifications:
+  - name: "NPTEL Online Certification — Machine Learning for Engineering and Science Applications"
+    issuer: "IIT Madras"
+    date: "Jan – Apr 2026"
+    desc: "Core certification validating mathematical machine learning algorithms, statistical regression, classification pipelines, and feature evaluation."
+  - name: "PowerDash — Power BI Competition Winner (1st Place)"
+    issuer: "CloudyML"
+    date: "Jul 2025"
+    desc: "Ranked 1st place for interactive dashboard data storytelling, DAX calculations, and visual design ergonomics."
+  - name: "Gen AI Exchange Hackathon"
+    issuer: "Google Cloud"
+    date: "Feb 2025"
+    desc: "Co-developed Generative AI prototype addressing youth mental wellness using prompt engineering and model integration."
+  - name: "HackHorizon AJU 2.0 Hackathon"
+    issuer: "Arka Jain University"
+    date: "2026"
+    desc: "Co-developed CIVIX, an AI-powered hyperlocal platform connecting users with verified local service professionals."
