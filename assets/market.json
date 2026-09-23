@@ -403,49 +403,49 @@
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 86229.51,
-      "change": -368.31,
-      "change_pct": -0.43,
-      "is_positive": false
+      "price": 86703.76,
+      "change": 508.48,
+      "change_pct": 0.59,
+      "is_positive": true
     },
     {
       "symbol": "ETH-USD",
       "currency": "$",
-      "price": 2751.68,
-      "change": -24.28,
-      "change_pct": -0.87,
-      "is_positive": false
+      "price": 2770.68,
+      "change": 17.43,
+      "change_pct": 0.63,
+      "is_positive": true
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 118.4,
-      "change": -0.37,
-      "change_pct": -0.31,
-      "is_positive": false
+      "price": 119.13,
+      "change": 0.61,
+      "change_pct": 0.52,
+      "is_positive": true
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 786.05,
-      "change": -12.91,
-      "change_pct": -1.62,
-      "is_positive": false
+      "price": 791.94,
+      "change": 3.77,
+      "change_pct": 0.48,
+      "is_positive": true
     },
     {
       "symbol": "ADA-USD",
       "currency": "$",
-      "price": 0.25,
-      "change": 0.01,
-      "change_pct": 3.22,
+      "price": 0.26,
+      "change": 0.0,
+      "change_pct": 0.69,
       "is_positive": true
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
-      "price": 1.57,
-      "change": 0.04,
-      "change_pct": 2.52,
+      "price": 1.6,
+      "change": 0.02,
+      "change_pct": 1.47,
       "is_positive": true
     },
     {
@@ -453,24 +453,24 @@
       "currency": "$",
       "price": 0.1,
       "change": 0.0,
-      "change_pct": 0.99,
+      "change_pct": 0.91,
       "is_positive": true
     },
     {
       "symbol": "DOT-USD",
       "currency": "$",
-      "price": 1.2,
-      "change": -0.0,
-      "change_pct": -0.25,
+      "price": 1.21,
+      "change": -0.01,
+      "change_pct": -0.68,
       "is_positive": false
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 12.97,
-      "change": -0.17,
-      "change_pct": -1.27,
-      "is_positive": false
+      "price": 13.09,
+      "change": 0.06,
+      "change_pct": 0.46,
+      "is_positive": true
     },
     {
       "symbol": "RELIANCE",
