@@ -403,49 +403,49 @@
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 84361.12,
-      "change": 279.2,
-      "change_pct": 0.33,
+      "price": 84436.95,
+      "change": 7.94,
+      "change_pct": 0.01,
       "is_positive": true
     },
     {
       "symbol": "ETH-USD",
       "currency": "$",
-      "price": 2692.87,
-      "change": 1.65,
+      "price": 2697.36,
+      "change": 1.69,
       "change_pct": 0.06,
       "is_positive": true
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 121.65,
-      "change": -0.39,
-      "change_pct": -0.32,
+      "price": 121.1,
+      "change": -0.33,
+      "change_pct": -0.27,
       "is_positive": false
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 773.33,
-      "change": -3.48,
-      "change_pct": -0.45,
+      "price": 772.4,
+      "change": -0.85,
+      "change_pct": -0.11,
       "is_positive": false
     },
     {
       "symbol": "ADA-USD",
       "currency": "$",
       "price": 0.25,
-      "change": -0.01,
-      "change_pct": -2.01,
+      "change": -0.0,
+      "change_pct": -0.82,
       "is_positive": false
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
-      "price": 1.53,
-      "change": -0.04,
-      "change_pct": -2.51,
+      "price": 1.52,
+      "change": -0.01,
+      "change_pct": -0.51,
       "is_positive": false
     },
     {
@@ -453,23 +453,23 @@
       "currency": "$",
       "price": 0.1,
       "change": -0.0,
-      "change_pct": -2.34,
+      "change_pct": -0.39,
       "is_positive": false
     },
     {
       "symbol": "DOT-USD",
       "currency": "$",
       "price": 1.24,
-      "change": 0.03,
-      "change_pct": 2.59,
-      "is_positive": true
+      "change": -0.01,
+      "change_pct": -0.59,
+      "is_positive": false
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 14.15,
-      "change": 0.23,
-      "change_pct": 1.62,
+      "price": 14.17,
+      "change": 0.01,
+      "change_pct": 0.09,
       "is_positive": true
     },
     {
