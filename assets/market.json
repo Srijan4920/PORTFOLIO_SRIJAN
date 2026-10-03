@@ -403,49 +403,49 @@
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 84626.2,
-      "change": 119.87,
+      "price": 84625.99,
+      "change": 119.66,
       "change_pct": 0.14,
       "is_positive": true
     },
     {
       "symbol": "ETH-USD",
       "currency": "$",
-      "price": 2680.42,
-      "change": 12.22,
-      "change_pct": 0.46,
+      "price": 2679.73,
+      "change": 11.53,
+      "change_pct": 0.43,
       "is_positive": true
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 119.31,
-      "change": 0.7,
-      "change_pct": 0.59,
+      "price": 119.2,
+      "change": 0.59,
+      "change_pct": 0.5,
       "is_positive": true
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 769.59,
-      "change": 1.46,
-      "change_pct": 0.19,
-      "is_positive": true
+      "price": 768.1,
+      "change": -0.03,
+      "change_pct": -0.0,
+      "is_positive": false
     },
     {
       "symbol": "ADA-USD",
       "currency": "$",
       "price": 0.25,
       "change": 0.0,
-      "change_pct": 1.09,
+      "change_pct": 1.19,
       "is_positive": true
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
       "price": 1.49,
-      "change": 0.01,
-      "change_pct": 0.44,
+      "change": 0.0,
+      "change_pct": 0.12,
       "is_positive": true
     },
     {
@@ -453,23 +453,23 @@
       "currency": "$",
       "price": 0.09,
       "change": 0.0,
-      "change_pct": 0.33,
+      "change_pct": 0.2,
       "is_positive": true
     },
     {
       "symbol": "DOT-USD",
       "currency": "$",
-      "price": 1.17,
-      "change": 0.02,
-      "change_pct": 1.36,
-      "is_positive": true
+      "price": 1.15,
+      "change": -0.0,
+      "change_pct": -0.19,
+      "is_positive": false
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 13.9,
-      "change": 0.1,
-      "change_pct": 0.76,
+      "price": 13.96,
+      "change": 0.16,
+      "change_pct": 1.14,
       "is_positive": true
     },
     {
