@@ -403,33 +403,33 @@
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 83361.85,
-      "change": 1607.37,
-      "change_pct": 1.97,
+      "price": 83238.21,
+      "change": 145.56,
+      "change_pct": 0.18,
       "is_positive": true
     },
     {
       "symbol": "ETH-USD",
       "currency": "$",
-      "price": 2507.85,
-      "change": 63.71,
-      "change_pct": 2.61,
+      "price": 2503.17,
+      "change": 6.95,
+      "change_pct": 0.28,
       "is_positive": true
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 106.86,
-      "change": 1.29,
-      "change_pct": 1.23,
+      "price": 107.3,
+      "change": 0.58,
+      "change_pct": 0.54,
       "is_positive": true
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 741.15,
-      "change": 9.04,
-      "change_pct": 1.23,
+      "price": 742.29,
+      "change": 1.23,
+      "change_pct": 0.17,
       "is_positive": true
     },
     {
@@ -437,15 +437,15 @@
       "currency": "$",
       "price": 0.24,
       "change": 0.0,
-      "change_pct": 1.52,
+      "change_pct": 0.7,
       "is_positive": true
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
       "price": 1.37,
-      "change": 0.03,
-      "change_pct": 2.04,
+      "change": 0.0,
+      "change_pct": 0.31,
       "is_positive": true
     },
     {
@@ -453,23 +453,23 @@
       "currency": "$",
       "price": 0.08,
       "change": 0.0,
-      "change_pct": 2.8,
+      "change_pct": 0.24,
       "is_positive": true
     },
     {
       "symbol": "DOT-USD",
       "currency": "$",
-      "price": 1.16,
-      "change": -0.02,
-      "change_pct": -1.38,
-      "is_positive": false
+      "price": 1.17,
+      "change": 0.01,
+      "change_pct": 0.79,
+      "is_positive": true
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 12.91,
-      "change": 0.29,
-      "change_pct": 2.3,
+      "price": 12.95,
+      "change": 0.08,
+      "change_pct": 0.59,
       "is_positive": true
     },
     {
@@ -483,8 +483,8 @@
     {
       "symbol": "TCS",
       "currency": "₹",
-      "price": 2269.3,
-      "change": 112.4,
+      "price": 2257.3,
+      "change": 111.81,
       "change_pct": 5.21,
       "is_positive": true
     },
