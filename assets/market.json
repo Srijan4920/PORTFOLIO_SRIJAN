@@ -3,433 +3,433 @@
     {
       "symbol": "AAPL",
       "currency": "$",
-      "price": 344.17,
-      "change": -9.72,
-      "change_pct": -2.75,
-      "is_positive": false
+      "price": 343.89,
+      "change": 5.59,
+      "change_pct": 1.65,
+      "is_positive": true
     },
     {
       "symbol": "MSFT",
       "currency": "$",
-      "price": 535.93,
-      "change": -19.01,
-      "change_pct": -3.43,
-      "is_positive": false
+      "price": 532.4,
+      "change": 7.4,
+      "change_pct": 1.41,
+      "is_positive": true
     },
     {
       "symbol": "NVDA",
       "currency": "$",
-      "price": 181.6,
-      "change": -14.47,
-      "change_pct": -7.38,
+      "price": 187.6,
+      "change": -3.54,
+      "change_pct": -1.85,
       "is_positive": false
     },
     {
       "symbol": "GOOGL",
       "currency": "$",
-      "price": 282.57,
-      "change": -11.4,
-      "change_pct": -3.88,
-      "is_positive": false
+      "price": 285.98,
+      "change": 1.12,
+      "change_pct": 0.39,
+      "is_positive": true
     },
     {
       "symbol": "TSLA",
       "currency": "$",
-      "price": 343.69,
-      "change": -30.43,
-      "change_pct": -8.13,
-      "is_positive": false
+      "price": 360.11,
+      "change": 11.19,
+      "change_pct": 3.21,
+      "is_positive": true
     },
     {
       "symbol": "META",
       "currency": "$",
-      "price": 605.08,
-      "change": -27.22,
-      "change_pct": -4.3,
-      "is_positive": false
+      "price": 616.11,
+      "change": 8.83,
+      "change_pct": 1.45,
+      "is_positive": true
     },
     {
       "symbol": "AMZN",
       "currency": "$",
-      "price": 260.21,
-      "change": -11.22,
-      "change_pct": -4.13,
-      "is_positive": false
+      "price": 262.14,
+      "change": 2.33,
+      "change_pct": 0.9,
+      "is_positive": true
     },
     {
       "symbol": "AMD",
       "currency": "$",
-      "price": 404.4,
-      "change": -48.1,
-      "change_pct": -10.63,
-      "is_positive": false
+      "price": 445.47,
+      "change": 1.51,
+      "change_pct": 0.34,
+      "is_positive": true
     },
     {
       "symbol": "INTC",
       "currency": "$",
-      "price": 52.25,
-      "change": -4.26,
-      "change_pct": -7.54,
-      "is_positive": false
+      "price": 56.62,
+      "change": 1.64,
+      "change_pct": 2.97,
+      "is_positive": true
     },
     {
       "symbol": "QCOM",
       "currency": "$",
-      "price": 156.75,
-      "change": 6.69,
-      "change_pct": 4.46,
+      "price": 166.1,
+      "change": 4.49,
+      "change_pct": 2.78,
       "is_positive": true
     },
     {
       "symbol": "AVGO",
       "currency": "$",
-      "price": 291.53,
-      "change": -20.36,
-      "change_pct": -6.53,
+      "price": 292.45,
+      "change": -18.68,
+      "change_pct": -6.0,
       "is_positive": false
     },
     {
       "symbol": "TSM",
       "currency": "$",
-      "price": 353.1,
-      "change": -26.65,
-      "change_pct": -7.02,
+      "price": 374.82,
+      "change": -5.74,
+      "change_pct": -1.51,
       "is_positive": false
     },
     {
       "symbol": "ARM",
       "currency": "$",
-      "price": 166.72,
-      "change": -5.33,
-      "change_pct": -3.1,
+      "price": 173.67,
+      "change": -3.67,
+      "change_pct": -2.07,
       "is_positive": false
     },
     {
       "symbol": "MU",
       "currency": "$",
-      "price": 656.39,
-      "change": -96.3,
-      "change_pct": -12.79,
+      "price": 691.32,
+      "change": -16.93,
+      "change_pct": -2.39,
       "is_positive": false
     },
     {
       "symbol": "NFLX",
       "currency": "$",
-      "price": 65.56,
-      "change": -1.73,
-      "change_pct": -2.57,
+      "price": 63.71,
+      "change": -0.12,
+      "change_pct": -0.18,
       "is_positive": false
     },
     {
       "symbol": "ORCL",
       "currency": "$",
-      "price": 115.16,
-      "change": -7.84,
-      "change_pct": -6.37,
+      "price": 115.01,
+      "change": -4.53,
+      "change_pct": -3.79,
       "is_positive": false
     },
     {
       "symbol": "IBM",
       "currency": "$",
-      "price": 247.11,
-      "change": -8.81,
-      "change_pct": -3.44,
-      "is_positive": false
+      "price": 244.6,
+      "change": 1.68,
+      "change_pct": 0.69,
+      "is_positive": true
     },
     {
       "symbol": "CRM",
       "currency": "$",
-      "price": 222.41,
-      "change": -6.65,
-      "change_pct": -2.9,
+      "price": 213.94,
+      "change": -2.77,
+      "change_pct": -1.28,
       "is_positive": false
     },
     {
       "symbol": "ADBE",
       "currency": "$",
-      "price": 246.44,
-      "change": -4.15,
-      "change_pct": -1.66,
-      "is_positive": false
+      "price": 240.15,
+      "change": 1.15,
+      "change_pct": 0.48,
+      "is_positive": true
     },
     {
       "symbol": "PLTR",
       "currency": "$",
-      "price": 154.99,
-      "change": -11.72,
-      "change_pct": -7.03,
-      "is_positive": false
+      "price": 161.12,
+      "change": 2.37,
+      "change_pct": 1.49,
+      "is_positive": true
     },
     {
       "symbol": "NOW",
       "currency": "$",
-      "price": 102.36,
-      "change": -6.0,
-      "change_pct": -5.54,
+      "price": 101.93,
+      "change": -0.48,
+      "change_pct": -0.47,
       "is_positive": false
     },
     {
       "symbol": "SNOW",
       "currency": "$",
-      "price": 269.54,
-      "change": -11.58,
-      "change_pct": -4.12,
+      "price": 276.89,
+      "change": -3.11,
+      "change_pct": -1.11,
       "is_positive": false
     },
     {
       "symbol": "PANW",
       "currency": "$",
-      "price": 314.67,
-      "change": -22.88,
-      "change_pct": -6.78,
+      "price": 318.29,
+      "change": -11.73,
+      "change_pct": -3.55,
       "is_positive": false
     },
     {
       "symbol": "INTU",
       "currency": "$",
-      "price": 354.84,
-      "change": -7.77,
-      "change_pct": -2.14,
+      "price": 341.33,
+      "change": -4.59,
+      "change_pct": -1.33,
       "is_positive": false
     },
     {
       "symbol": "WDAY",
       "currency": "$",
-      "price": 200.17,
-      "change": -4.61,
-      "change_pct": -2.25,
-      "is_positive": false
+      "price": 194.58,
+      "change": 2.35,
+      "change_pct": 1.22,
+      "is_positive": true
     },
     {
       "symbol": "JPM",
       "currency": "$",
-      "price": 337.34,
-      "change": -21.3,
-      "change_pct": -5.94,
-      "is_positive": false
+      "price": 336.73,
+      "change": 3.58,
+      "change_pct": 1.07,
+      "is_positive": true
     },
     {
       "symbol": "V",
       "currency": "$",
-      "price": 422.59,
-      "change": -18.21,
-      "change_pct": -4.13,
-      "is_positive": false
+      "price": 423.23,
+      "change": 8.74,
+      "change_pct": 2.11,
+      "is_positive": true
     },
     {
       "symbol": "MA",
       "currency": "$",
-      "price": 655.92,
-      "change": -24.09,
-      "change_pct": -3.54,
-      "is_positive": false
+      "price": 655.79,
+      "change": 13.54,
+      "change_pct": 2.11,
+      "is_positive": true
     },
     {
       "symbol": "BAC",
       "currency": "$",
-      "price": 49.76,
-      "change": -2.89,
-      "change_pct": -5.49,
-      "is_positive": false
+      "price": 49.79,
+      "change": 0.25,
+      "change_pct": 0.5,
+      "is_positive": true
     },
     {
       "symbol": "WFC",
       "currency": "$",
-      "price": 84.8,
-      "change": -4.29,
-      "change_pct": -4.82,
-      "is_positive": false
+      "price": 83.92,
+      "change": 0.58,
+      "change_pct": 0.69,
+      "is_positive": true
     },
     {
       "symbol": "GS",
       "currency": "$",
-      "price": 868.95,
-      "change": -63.37,
-      "change_pct": -6.8,
-      "is_positive": false
+      "price": 871.11,
+      "change": 0.83,
+      "change_pct": 0.09,
+      "is_positive": true
     },
     {
       "symbol": "MS",
       "currency": "$",
-      "price": 182.44,
-      "change": -13.56,
-      "change_pct": -6.92,
-      "is_positive": false
+      "price": 182.9,
+      "change": 0.5,
+      "change_pct": 0.27,
+      "is_positive": true
     },
     {
       "symbol": "PYPL",
       "currency": "$",
-      "price": 58.96,
-      "change": -1.48,
-      "change_pct": -2.45,
-      "is_positive": false
+      "price": 59.4,
+      "change": 1.76,
+      "change_pct": 3.05,
+      "is_positive": true
     },
     {
       "symbol": "COIN",
       "currency": "$",
-      "price": 136.82,
-      "change": -12.21,
-      "change_pct": -8.19,
+      "price": 133.42,
+      "change": -3.09,
+      "change_pct": -2.26,
       "is_positive": false
     },
     {
       "symbol": "WMT",
       "currency": "$",
-      "price": 127.72,
-      "change": -3.18,
-      "change_pct": -2.43,
-      "is_positive": false
+      "price": 125.65,
+      "change": 1.91,
+      "change_pct": 1.55,
+      "is_positive": true
     },
     {
       "symbol": "DIS",
       "currency": "$",
-      "price": 117.22,
-      "change": -2.65,
-      "change_pct": -2.21,
-      "is_positive": false
+      "price": 117.43,
+      "change": 2.99,
+      "change_pct": 2.61,
+      "is_positive": true
     },
     {
       "symbol": "UBER",
       "currency": "$",
-      "price": 68.78,
-      "change": -1.99,
-      "change_pct": -2.81,
-      "is_positive": false
+      "price": 68.55,
+      "change": 0.43,
+      "change_pct": 0.63,
+      "is_positive": true
     },
     {
       "symbol": "KO",
       "currency": "$",
-      "price": 95.73,
-      "change": -1.21,
-      "change_pct": -1.25,
-      "is_positive": false
+      "price": 95.97,
+      "change": 2.76,
+      "change_pct": 2.96,
+      "is_positive": true
     },
     {
       "symbol": "PEP",
       "currency": "$",
-      "price": 142.71,
-      "change": -1.34,
-      "change_pct": -0.93,
-      "is_positive": false
+      "price": 141.27,
+      "change": 2.97,
+      "change_pct": 2.14,
+      "is_positive": true
     },
     {
       "symbol": "NKE",
       "currency": "$",
-      "price": 39.56,
-      "change": -0.82,
-      "change_pct": -2.03,
-      "is_positive": false
+      "price": 38.6,
+      "change": 0.33,
+      "change_pct": 0.85,
+      "is_positive": true
     },
     {
       "symbol": "COST",
       "currency": "$",
-      "price": 1065.59,
-      "change": -5.4,
-      "change_pct": -0.5,
-      "is_positive": false
+      "price": 1056.28,
+      "change": 11.49,
+      "change_pct": 1.1,
+      "is_positive": true
     },
     {
       "symbol": "SBUX",
       "currency": "$",
-      "price": 106.16,
-      "change": -3.96,
-      "change_pct": -3.6,
-      "is_positive": false
+      "price": 105.55,
+      "change": 2.1,
+      "change_pct": 2.03,
+      "is_positive": true
     },
     {
       "symbol": "TGT",
       "currency": "$",
-      "price": 157.95,
-      "change": -7.49,
-      "change_pct": -4.53,
-      "is_positive": false
+      "price": 157.68,
+      "change": 2.15,
+      "change_pct": 1.39,
+      "is_positive": true
     },
     {
       "symbol": "CAT",
       "currency": "$",
-      "price": 553.64,
-      "change": -22.47,
-      "change_pct": -3.9,
+      "price": 558.72,
+      "change": -13.1,
+      "change_pct": -2.29,
       "is_positive": false
     },
     {
       "symbol": "GE",
       "currency": "$",
-      "price": 314.73,
-      "change": -13.83,
-      "change_pct": -4.21,
-      "is_positive": false
+      "price": 323.39,
+      "change": 6.32,
+      "change_pct": 1.99,
+      "is_positive": true
     },
     {
       "symbol": "HON",
       "currency": "$",
-      "price": 215.78,
-      "change": -12.31,
-      "change_pct": -5.4,
-      "is_positive": false
+      "price": 219.55,
+      "change": 7.62,
+      "change_pct": 3.59,
+      "is_positive": true
     },
     {
       "symbol": "NOC",
       "currency": "$",
-      "price": 525.25,
-      "change": 3.09,
-      "change_pct": 0.59,
+      "price": 529.29,
+      "change": 13.91,
+      "change_pct": 2.7,
       "is_positive": true
     },
     {
       "symbol": "LMT",
       "currency": "$",
-      "price": 576.16,
-      "change": -12.64,
-      "change_pct": -2.15,
-      "is_positive": false
+      "price": 571.45,
+      "change": 2.45,
+      "change_pct": 0.43,
+      "is_positive": true
     },
     {
       "symbol": "DE",
       "currency": "$",
-      "price": 663.31,
-      "change": -16.95,
-      "change_pct": -2.49,
-      "is_positive": false
+      "price": 675.21,
+      "change": 15.21,
+      "change_pct": 2.3,
+      "is_positive": true
     },
     {
       "symbol": "FDX",
       "currency": "$",
-      "price": 316.8,
-      "change": -13.4,
-      "change_pct": -4.06,
+      "price": 308.8,
+      "change": -3.74,
+      "change_pct": -1.2,
       "is_positive": false
     },
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 76072.65,
-      "change": 89.84,
-      "change_pct": 0.12,
-      "is_positive": true
+      "price": 75627.3,
+      "change": -355.52,
+      "change_pct": -0.47,
+      "is_positive": false
     },
     {
       "symbol": "ETH-USD",
       "currency": "$",
-      "price": 2240.57,
-      "change": 5.42,
-      "change_pct": 0.24,
-      "is_positive": true
+      "price": 2227.42,
+      "change": -7.73,
+      "change_pct": -0.35,
+      "is_positive": false
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 90.53,
-      "change": 1.36,
-      "change_pct": 1.53,
+      "price": 89.76,
+      "change": 0.59,
+      "change_pct": 0.66,
       "is_positive": true
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 696.2,
-      "change": 8.05,
-      "change_pct": 1.17,
+      "price": 693.18,
+      "change": 5.03,
+      "change_pct": 0.73,
       "is_positive": true
     },
     {
@@ -437,15 +437,15 @@
       "currency": "$",
       "price": 0.19,
       "change": 0.01,
-      "change_pct": 3.53,
+      "change_pct": 2.88,
       "is_positive": true
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
-      "price": 1.19,
-      "change": -0.01,
-      "change_pct": -0.99,
+      "price": 1.18,
+      "change": -0.02,
+      "change_pct": -1.96,
       "is_positive": false
     },
     {
@@ -459,17 +459,17 @@
     {
       "symbol": "DOT-USD",
       "currency": "$",
-      "price": 0.94,
-      "change": 0.03,
-      "change_pct": 3.26,
+      "price": 0.91,
+      "change": 0.01,
+      "change_pct": 0.9,
       "is_positive": true
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 10.9,
-      "change": 0.24,
-      "change_pct": 2.29,
+      "price": 10.8,
+      "change": 0.14,
+      "change_pct": 1.36,
       "is_positive": true
     },
     {
