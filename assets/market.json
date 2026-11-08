@@ -403,33 +403,25 @@
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 75832.66,
-      "change": 78.95,
-      "change_pct": 0.1,
+      "price": 75845.64,
+      "change": 91.93,
+      "change_pct": 0.12,
       "is_positive": true
-    },
-    {
-      "symbol": "ETH-USD",
-      "currency": "$",
-      "price": 2232.75,
-      "change": -4.17,
-      "change_pct": -0.19,
-      "is_positive": false
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 89.13,
-      "change": -0.54,
-      "change_pct": -0.6,
+      "price": 89.52,
+      "change": -0.15,
+      "change_pct": -0.17,
       "is_positive": false
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 696.26,
-      "change": 1.01,
-      "change_pct": 0.15,
+      "price": 697.09,
+      "change": 1.84,
+      "change_pct": 0.26,
       "is_positive": true
     },
     {
@@ -437,15 +429,15 @@
       "currency": "$",
       "price": 0.18,
       "change": -0.0,
-      "change_pct": -1.09,
+      "change_pct": -0.78,
       "is_positive": false
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
       "price": 1.16,
-      "change": -0.0,
-      "change_pct": -0.33,
+      "change": -0.01,
+      "change_pct": -0.47,
       "is_positive": false
     },
     {
@@ -453,7 +445,7 @@
       "currency": "$",
       "price": 0.07,
       "change": -0.0,
-      "change_pct": -0.55,
+      "change_pct": -0.27,
       "is_positive": false
     },
     {
@@ -461,15 +453,15 @@
       "currency": "$",
       "price": 0.89,
       "change": -0.0,
-      "change_pct": -0.55,
+      "change_pct": -0.45,
       "is_positive": false
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 10.7,
-      "change": -0.12,
-      "change_pct": -1.09,
+      "price": 10.71,
+      "change": -0.11,
+      "change_pct": -1.02,
       "is_positive": false
     },
     {
@@ -692,9 +684,9 @@
       "symbol": "DABUR",
       "currency": "₹",
       "price": 382.8,
-      "change": -0.2,
-      "change_pct": -0.05,
-      "is_positive": false
+      "change": 3.32,
+      "change_pct": 0.88,
+      "is_positive": true
     },
     {
       "symbol": "GODREJCP",
