@@ -403,74 +403,74 @@
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 74442.89,
-      "change": -810.97,
-      "change_pct": -1.08,
+      "price": 74879.33,
+      "change": -374.53,
+      "change_pct": -0.5,
       "is_positive": false
     },
     {
       "symbol": "ETH-USD",
       "currency": "$",
-      "price": 2111.24,
-      "change": -21.13,
-      "change_pct": -0.99,
+      "price": 2126.8,
+      "change": -5.57,
+      "change_pct": -0.26,
       "is_positive": false
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 85.65,
-      "change": -0.91,
-      "change_pct": -1.05,
+      "price": 86.4,
+      "change": -0.16,
+      "change_pct": -0.19,
       "is_positive": false
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 688.5,
-      "change": -1.68,
-      "change_pct": -0.24,
-      "is_positive": false
+      "price": 691.5,
+      "change": 1.32,
+      "change_pct": 0.19,
+      "is_positive": true
     },
     {
       "symbol": "ADA-USD",
       "currency": "$",
       "price": 0.18,
       "change": 0.0,
-      "change_pct": 0.11,
+      "change_pct": 1.29,
       "is_positive": true
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
-      "price": 1.09,
-      "change": -0.01,
-      "change_pct": -0.5,
-      "is_positive": false
+      "price": 1.1,
+      "change": 0.0,
+      "change_pct": 0.36,
+      "is_positive": true
     },
     {
       "symbol": "DOGE-USD",
       "currency": "$",
       "price": 0.07,
-      "change": -0.0,
-      "change_pct": -0.6,
-      "is_positive": false
+      "change": 0.0,
+      "change_pct": 0.44,
+      "is_positive": true
     },
     {
       "symbol": "DOT-USD",
       "currency": "$",
-      "price": 0.85,
-      "change": -0.01,
-      "change_pct": -0.69,
-      "is_positive": false
+      "price": 0.86,
+      "change": 0.0,
+      "change_pct": 0.33,
+      "is_positive": true
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 10.55,
-      "change": -0.08,
-      "change_pct": -0.79,
-      "is_positive": false
+      "price": 10.67,
+      "change": 0.03,
+      "change_pct": 0.31,
+      "is_positive": true
     },
     {
       "symbol": "RELIANCE",
@@ -831,6 +831,14 @@
       "change": -4.1,
       "change_pct": -0.3,
       "is_positive": false
+    },
+    {
+      "symbol": "HINDALCO",
+      "currency": "₹",
+      "price": 960.0,
+      "change": 12.1,
+      "change_pct": 1.28,
+      "is_positive": true
     },
     {
       "symbol": "GRASIM",
