@@ -403,33 +403,33 @@
     {
       "symbol": "BTC-USD",
       "currency": "$",
-      "price": 57134.14,
-      "change": -1668.46,
-      "change_pct": -2.84,
+      "price": 55946.58,
+      "change": -2856.02,
+      "change_pct": -4.86,
       "is_positive": false
     },
     {
       "symbol": "ETH-USD",
       "currency": "$",
-      "price": 1573.33,
-      "change": -46.04,
-      "change_pct": -2.84,
+      "price": 1563.29,
+      "change": -56.08,
+      "change_pct": -3.46,
       "is_positive": false
     },
     {
       "symbol": "SOL-USD",
       "currency": "$",
-      "price": 66.54,
-      "change": -2.21,
-      "change_pct": -3.21,
+      "price": 65.57,
+      "change": -3.18,
+      "change_pct": -4.62,
       "is_positive": false
     },
     {
       "symbol": "BNB-USD",
       "currency": "$",
-      "price": 519.48,
-      "change": -19.52,
-      "change_pct": -3.62,
+      "price": 514.05,
+      "change": -24.95,
+      "change_pct": -4.63,
       "is_positive": false
     },
     {
@@ -437,15 +437,15 @@
       "currency": "$",
       "price": 0.14,
       "change": -0.01,
-      "change_pct": -4.28,
+      "change_pct": -5.44,
       "is_positive": false
     },
     {
       "symbol": "XRP-USD",
       "currency": "$",
-      "price": 0.88,
-      "change": -0.03,
-      "change_pct": -3.19,
+      "price": 0.87,
+      "change": -0.04,
+      "change_pct": -3.91,
       "is_positive": false
     },
     {
@@ -453,7 +453,7 @@
       "currency": "$",
       "price": 0.05,
       "change": -0.0,
-      "change_pct": -3.67,
+      "change_pct": -4.72,
       "is_positive": false
     },
     {
@@ -461,15 +461,15 @@
       "currency": "$",
       "price": 0.63,
       "change": -0.03,
-      "change_pct": -4.16,
+      "change_pct": -5.25,
       "is_positive": false
     },
     {
       "symbol": "LINK-USD",
       "currency": "$",
-      "price": 8.21,
-      "change": -0.32,
-      "change_pct": -3.76,
+      "price": 8.09,
+      "change": -0.44,
+      "change_pct": -5.19,
       "is_positive": false
     },
     {
@@ -807,6 +807,14 @@
       "change": 0.0,
       "change_pct": 0.0,
       "is_positive": true
+    },
+    {
+      "symbol": "TATASTEEL",
+      "currency": "₹",
+      "price": 178.0,
+      "change": -1.0,
+      "change_pct": -0.56,
+      "is_positive": false
     },
     {
       "symbol": "JINDALSTEL",
